@@ -117,7 +117,7 @@ text-align: justify;
 background-color: white;
  float:left;
 width: 800px;
-height: 1700px;
+height: 2520px;
 padding: 10px 20px 10px 0px;
 text-align: justify;
 overflow: scroll;
@@ -127,6 +127,7 @@ overflow: scroll;
    background-color: white;
 float:left;
 width: 350px;
+height: 2520px;
 padding: 10px 20px 10px 10px;
 text-align: justify;
 
@@ -172,6 +173,11 @@ float:rigth;
 
 i{
    font-weight: bold;
+      font-size: 15px; 
+         
+}
+span{
+   font-weight: bold;
       font-size: 20px; 
          
 }
@@ -189,13 +195,7 @@ a{
          
 }
 
-/*
-li{
-     list-style-image: url("../imagenes/cuervo.png#");
-     
-     
-}
-*/
+
 
 
 
